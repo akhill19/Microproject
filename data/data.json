@@ -1,0 +1,8 @@
+[
+    {"id": 1, "name": "Wireless Headphones", "description": "Experience high-quality sound without the wires. These headphones offer up to 20 hours of battery life and feature noise-canceling technology.", "price": 99.99},
+    {"id": 2, "name": "Smart Watch", "description": "Keep track of your fitness and stay connected with this sleek smartwatch. It includes a heart rate monitor, GPS, and notifications for calls and messages.", "price": 199.99},
+    {"id": 3, "name": "Bluetooth Speaker", "description": "Enjoy powerful, room-filling sound with this portable Bluetooth speaker. It’s water-resistant and has a battery life of up to 10 hours.", "price": 49.99},
+    {"id": 4, "name": "Laptop Backpack", "description": "Carry your laptop and other essentials in style with this durable and water-resistant backpack. It features multiple compartments for organization.", "price": 59.99},
+    {"id": 5, "name": "Fitness Tracker", "description": "Monitor your daily activity and sleep patterns with this lightweight fitness tracker. It syncs with your smartphone to provide detailed insights.", "price": 29.99},
+    {"id": 6, "name": "Portable Charger", "description": "Keep your devices charged on the go with this compact and powerful portable charger. It has a capacity of 10000mAh, enough to charge your phone multiple times.", "price": 24.99}
+]
